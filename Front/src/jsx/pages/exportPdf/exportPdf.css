@@ -1,0 +1,205 @@
+
+#pddf{
+    padding-top: 40px;
+    padding-bottom: 50px;
+}
+
+
+.exportPdf{
+    background-color:white;
+    padding: 15px;
+    margin-top: 30px;
+}
+
+.exportHeader {
+    display: flex;
+    justify-content:space-between;
+    position: relative;
+    width: 100%;
+}
+
+.Logo{
+    border-radius: 50px;
+    width: 150px;
+    height: 150px;
+}
+
+.headerCompanyName{
+    font-size: 25px;
+    text-align: center;
+    font-weight: 900;
+    color: black;
+}
+
+.headerCompanyNameSubTitle{
+    font-size: 15px;
+    text-align: center;
+    font-weight: 700;
+    color: rgb(87, 85, 85);
+}
+
+.headerCompanyInfo{
+    margin-top: 10px;
+    font-size: 16px;
+    text-align: left;
+    font-weight: 400;
+    color: rgb(41, 40, 40);
+}
+
+.headerCompanyContact{
+    font-weight: bold;
+}
+
+.ArheaderCompanyName{
+    font-size: 25px;
+    text-align: center;
+    font-weight: 900;
+    color: black;
+}
+
+.ArheaderCompanyNameSubTitle{
+    font-size: 15px;
+    text-align: center;
+    font-weight: 700;
+    color: rgb(87, 85, 85);
+}
+
+.ArheaderCompanyInfo{
+    margin-top: 10px;
+    font-size: 16px;
+    text-align: left;
+    font-weight: 400;
+    color: rgb(41, 40, 40);
+    text-align: right;
+    
+}
+
+.ArheaderCompanyContact{
+    font-weight: bold;
+    text-align: right;
+}
+
+.exportBody{
+    margin-top: 20px;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 15px;
+}
+
+.bodyTitle{
+    font-size: 19px;
+    text-align: center;
+    font-weight: 500;
+    color: black;
+}
+
+.bodySubTitle{
+    font-size: 15px;
+    text-align: center;
+    font-weight: 300;
+    color: rgb(66, 66, 66);
+}
+
+.infoClientText , .infoVoitureText{
+    font-size: 16px;
+    font-weight: 200;
+    color: black;
+    border-bottom: 1px solid black;
+    margin-top: 15px;
+    display: flex;
+}
+
+
+
+.infoClientTitle , .infoVoitureTitle{
+    margin-top: 15px;
+    font-size: 20px;
+    font-weight: 500;
+    color: black;
+    border-bottom: 3px solid black;
+}
+
+.flexing{
+    display: flex;
+    position: relative;
+    width: 100%;
+}
+.flex-1{
+    flex: 3;
+}
+.flex-2{
+    flex: 6;
+}
+
+.footerr    {
+    display: flex;
+}
+
+.footerLeft{
+    flex: 3
+}
+
+.footerMiddle{
+    flex: 3;
+}
+.footerRight{
+    flex: 3;
+}
+
+.carImg{
+    width: 300px;
+    height: 300px;
+}
+
+.footerLeft{
+    align-items: left;
+    margin-bottom: 5px;
+}
+
+.signatures{
+    margin-top: 10px;
+    color: rgb(56, 55, 55);
+    margin-bottom: 70px;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.tablee{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border: 0.5px solid rgb(80, 80, 80);
+}
+
+.generateBTN{
+    margin-left: 40%;
+    
+}
+
+.btnGen{
+    display: flex;
+}
+
+.content{
+    width: 50%;
+    color: blue;
+    text-align: left;
+    font-size: 17px;
+    margin-left: 20px;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 0.8px;
+}
+
+.contentTable{
+    color: blue;
+    font-size: 17px;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 0.8px;
+}
+
+.tdd{
+    color: blue;
+    font-size: 15px;
+    font-weight: bold;
+}

@@ -1,0 +1,25 @@
+.logo_location{
+    width: 75px;
+    height:75px;
+    border-radius: 20px;
+}
+
+.name_location{
+    font-size: 30px;
+    color: black;
+    font-weight: 700;
+    margin-left: 15px;
+}
+
+.loca_dev{
+    display: flex;
+    align-items: center;
+    padding: 6%;
+}
+
+@media screen and (max-width: 1000px) {
+    .name_location {
+      visibility: hidden;
+      display: none;
+    }
+  }
